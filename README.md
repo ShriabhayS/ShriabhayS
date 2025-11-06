@@ -39,6 +39,11 @@ Curious about building intelligent machines and pushing engineering limits.
 
 ---
 
+<p align="center">
+  <img src="./metrics.svg" width="90%">
+</p>
+
+---
 ## 📊 GitHub Activity
 ![Stats](https://github-readme-stats.vercel.app/api?username=ShriabhayS&show_icons=true&theme=github_dark_dimmed&count_private=true&hide_border=true)  
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShriabhayS&layout=compact&theme=github_dark_dimmed&hide_border=true)  
@@ -53,4 +58,4 @@ Curious about building intelligent machines and pushing engineering limits.
 
 ---
 
-> “The best way to predict the future is to engineer it.”
+> “Delusional ambition paired with egoistic naïveté.”
