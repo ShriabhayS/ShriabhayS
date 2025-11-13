@@ -1,45 +1,37 @@
 name: 🐍 Generate Snake Animation
 
+# This workflow generates an animated snake from your GitHub contribution graph
+# It runs daily at midnight and whenever you push to the main branch
+
 on:
   schedule:
-    - cron: "0 0 * * *"  # Run daily at midnight
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # Run daily at midnight UTC
+  workflow_dispatch:     # Allow manual triggering
   push:
     branches:
-      - main
+      - main              # Run on push to main branch
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write     # Required to commit the generated SVG
     steps:
-      - uses: actions/checkout@v3
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
       
-      - name: 🐍 Generate GitHub Contribution Grid Snake (Light)
+      - name: 🐍 Generate GitHub Contribution Grid Snake
         uses: Platane/snk@master
-        id: snake-light
         with:
           github_user_name: ShriabhayS
           svg_out_path: output/github-contribution-grid-snake.svg
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
-      - name: 🐍 Generate GitHub Contribution Grid Snake (Dark)
-        uses: Platane/snk@master
-        id: snake-dark
-        with:
-          github_user_name: ShriabhayS
-          svg_out_path: output/github-contribution-grid-snake-dark.svg
-          args: --palette github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      
-      - name: 📝 Update README
+      - name: 📝 Commit and push snake animation
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add output/
           git commit -m "Update snake animation [skip ci]" || exit 0
           git push
-

@@ -7,11 +7,9 @@
 </div>
 
 <div align="center">
-  
   ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ShriabhayS.ShriabhayS&left_color=blueviolet&right_color=purple)
   ![GitHub followers](https://img.shields.io/github/followers/ShriabhayS?label=Followers&style=flat-square&color=blueviolet)
   ![GitHub stars](https://img.shields.io/github/stars/ShriabhayS?label=Stars&style=flat-square&color=blueviolet)
-  
 </div>
 
 ---
@@ -19,8 +17,10 @@
 ## 👨‍💻 About Me
 
 <div align="center">
-  
-  **Mechatronics and Robotics engineering student with hands-on experience across aerospace, composites, robotics, computer vision, automation, mechanical engineering and embedded systems. Keen to work on high calibre engineering ventures and startups in spacetech and deeptech.**
+
+**Mechatronics and Robotics engineering student with hands-on experience across aerospace, composites, robotics, computer vision, automation, mechanical engineering and embedded systems. Keen to work on high calibre engineering ventures and startups in spacetech and deeptech.**
+
+*"Passionate about building elegant, scalable technologies and pushing the boundaries of deep tech through curiosity and innovation."*
 
 </div>
 
@@ -41,6 +41,7 @@
 </div>
 
 ---
+
 ## 🛠️ Tech Stack
 
 ### Programming Languages
@@ -110,38 +111,20 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShriabhayS&show_icons=true&theme=github_dark_dimmed&count_private=true&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
-  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShriabhayS&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=8" alt="Top Languages"/>
-  
 </div>
 
 <div align="center">
-  
   <img src="https://github-readme-streak-stats.demolab.com?user=ShriabhayS&theme=github-dark-dimmed&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-  
 </div>
 
 <div align="center">
-  
   ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShriabhayS&theme=github-dark-dimmed&hide_border=true&area=true)
-  
 </div>
 
 <div align="center">
-  
   ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ShriabhayS&theme=github_dark_dimmed&no-frame=true&no-bg=false&margin-w=4&column=7)
-  
-</div>
-
----
-## 📈 GitHub Metrics
-
-<div align="center">
-  
-  <img src="https://raw.githubusercontent.com/ShriabhayS/ShriabhayS/main/github-metrics.svg" alt="GitHub Metrics" width="100%"/>
-  
 </div>
 
 ---
@@ -149,20 +132,10 @@
 ## 📬 Get in Touch
 
 <div align="center">
-  
   **Location:** Melbourne, VIC-3145, Australia  
   **Email:** shriabhay10@gmail.com  
   **Phone:** +61 470 632 887  
   **LinkedIn:** [shriabhay-s](https://linkedin.com/in/shriabhay-s)
-  
-</div>
-
----
-
-<div align="center">
-  
-  **"Passionate about building elegant, scalable technologies and pushing the boundaries of deep tech through curiosity and innovation."**
-  
 </div>
 
 ---
@@ -170,42 +143,5 @@
 ## 🐍 Contribution Graph
 
 <div align="center">
-  
   ![Snake animation](https://raw.githubusercontent.com/ShriabhayS/ShriabhayS/output/github-contribution-grid-snake.svg)
-  
-</div>
-
----
-
-## 📈 GitHub Profile Summary
-
-<div align="center">
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShriabhayS&theme=github_dark" alt="Profile Details"/>
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShriabhayS&theme=github_dark" alt="Repos per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShriabhayS&theme=github_dark" alt="Most Commit Language"/>
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShriabhayS&theme=github_dark" alt="Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShriabhayS&theme=github_dark&utcOffset=10" alt="Productive Time"/>
-  
-</div>
-
----
-
-## 🎯 GitHub Profile Views Counter
-
-<div align="center">
-  
-  <img src="https://komarev.com/ghpvc/?username=ShriabhayS&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-  
-</div>
-
----
-
-<div align="center">
-   
-  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status"/>
-  <img src="https://img.shields.io/badge/Location-Melbourne,%20Australia-blue?style=for-the-badge" alt="Location"/>
-  
 </div>
