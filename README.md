@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shriabhay+S!;Student+Entrepreneur+x+Engineer+🚀;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shriabhay+S!;Student+Entrepreneur+x+Engineer+🚀;" />
 </div>
 
 <div align="center">
@@ -7,9 +7,9 @@
 </div>
 
 <div align="center">
-  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ShriabhayS.ShriabhayS&left_color=blueviolet&right_color=purple)
-  ![GitHub followers](https://img.shields.io/github/followers/ShriabhayS?label=Followers&style=flat-square&color=blueviolet)
-  ![GitHub stars](https://img.shields.io/github/stars/ShriabhayS?label=Stars&style=flat-square&color=blueviolet)
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ShriabhayS.ShriabhayS&left_color=blueviolet&right_color=purple" alt="Visitor Count"/>
+  <img src="https://img.shields.io/github/followers/ShriabhayS?label=Followers&style=flat-square&color=blueviolet" alt="GitHub followers"/>
+  <img src="https://img.shields.io/github/stars/ShriabhayS?label=Stars&style=flat-square&color=blueviolet" alt="GitHub stars"/>
 </div>
 
 ---
@@ -120,11 +120,11 @@
 </div>
 
 <div align="center">
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShriabhayS&theme=github-dark-dimmed&hide_border=true&area=true)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShriabhayS&theme=github-dark-dimmed&hide_border=true&area=true" alt="GitHub Activity Graph"/>
 </div>
 
 <div align="center">
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ShriabhayS&theme=github_dark_dimmed&no-frame=true&no-bg=false&margin-w=4&column=7)
+  <img src="https://github-profile-trophy.vercel.app/?username=ShriabhayS&theme=github_dark_dimmed&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -143,5 +143,5 @@
 ## 🐍 Contribution Graph
 
 <div align="center">
-  ![Snake animation](https://raw.githubusercontent.com/ShriabhayS/ShriabhayS/output/github-contribution-grid-snake.svg)
+  <img src="https://raw.githubusercontent.com/ShriabhayS/ShriabhayS/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </div>
