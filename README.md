@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shriabhay+S!;Student+Entrepreneur+x+Engineer+🚀;" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shriabhay+S!;Student+Entrepreneur+x+Engineer+🚀;" />
 </div>
 
 <div align="center">
@@ -7,11 +7,9 @@
 </div>
 
 <div align="center">
-  
-  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ShriabhayS.ShriabhayS&left_color=blueviolet&right_color=purple)
-  ![GitHub followers](https://img.shields.io/github/followers/ShriabhayS?label=Followers&style=flat-square&color=blueviolet)
-  ![GitHub stars](https://img.shields.io/github/stars/ShriabhayS?label=Stars&style=flat-square&color=blueviolet)
-  
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ShriabhayS.ShriabhayS&left_color=blueviolet&right_color=purple" alt="Visitor Count"/>
+  <img src="https://img.shields.io/github/followers/ShriabhayS?label=Followers&style=flat-square&color=blueviolet" alt="GitHub followers"/>
+  <img src="https://img.shields.io/github/stars/ShriabhayS?label=Stars&style=flat-square&color=blueviolet" alt="GitHub stars"/>
 </div>
 
 <br>
@@ -21,8 +19,8 @@
 ## 👨‍💻 About Me
 
 <div align="center">
-  
-  **Mechatronics and Robotics engineering student with hands-on experience across aerospace, composites, robotics, computer vision, automation, mechanical engineering and embedded systems. Extensive track record in high calibre engineering student teams and startup ventures. Passionate about building elegant, scalable technologies and pushing the boundaries of deep tech through curiosity and innovation.**
+
+**Mechatronics and Robotics engineering student with hands-on experience across aerospace, composites, robotics, computer vision, automation, mechanical engineering and embedded systems. Extensive track record in high calibre engineering student teams and startup ventures. Passionate about building elegant, scalable technologies and pushing the boundaries of deep tech through curiosity and innovation.**
 
 </div>
 
