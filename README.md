@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shriabhay+S!;Student+Entrepreneur+x+Engineer+🚀;" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shriabhay+S!;Student+Entrepreneur+x+Engineer+🚀;" />
 </div>
 
 <div align="center">
@@ -32,7 +32,7 @@
 
 <div align="center">
   
-  <a href="https://linkedin.com/in/shriabhay-s" target="_blank">
+  <a href="https://www.linkedin.com/in/shriabhay-s" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:shriabhay10@gmail.com" target="_blank">
@@ -347,7 +347,7 @@
 
 <div align="center">
   
-  ![Snake animation](https://raw.githubusercontent.com/ShriabhayS/ShriabhayS/output/github-contribution-grid-snake.svg)
+  <img src="https://raw.githubusercontent.com/ShriabhayS/ShriabhayS/output/github-contribution-grid-snake.svg" alt="Snake animation" />
   
 </div>
 
@@ -370,7 +370,7 @@
   **📍 Location:** Melbourne, VIC-3145, Australia  
   **✉️ Email:** shriabhay10@gmail.com  
   **📱 Phone:** +61 470 632 887  
-  **💼 LinkedIn:** [shriabhay-s](https://linkedin.com/in/shriabhay-s)
+  **💼 LinkedIn:** [shriabhay-s](https://www.linkedin.com/in/shriabhay-s)
   
 </div>
 
