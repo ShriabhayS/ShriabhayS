@@ -12,50 +12,45 @@
   <img src="https://img.shields.io/github/stars/ShriabhayS?label=Stars&style=flat-square&color=blueviolet" alt="GitHub stars"/>
 </div>
 
-<br>
+---
+
+## Hire me:
+
+- CV: `https://github.com/ShriabhayS/ShriabhayS/raw/main/resume.pdf`
+- Website: `https://github.com/ShriabhayS` (portfolio coming soon!)
 
 ---
 
-## 👨‍💻 About Me
+## Always learning ...
 
-<div align="center">
-
-**Mechatronics and Robotics engineering student with hands-on experience across aerospace, composites, robotics, computer vision, automation, mechanical engineering and embedded systems. Extensive track record in high calibre engineering student teams and startup ventures. Passionate about building elegant, scalable technologies and pushing the boundaries of deep tech through curiosity and innovation.**
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-  
-  <a href="https://www.linkedin.com/in/shriabhay-s" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:shriabhay10@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/ShriabhayS" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  
-</div>
+- AI papers: everything state of the art, + math, mechatronics & aerospace engineering
+- PYTHON (AI/ML), JAVA, C/C++, MATLAB, MIPS, VERILOG HDL, JavaScript, HTML/CSS, Bash
+- artificial intelligence: PyTorch, TensorFlow, computer vision, object detection, pose estimation, real-time visual feedback
+- robotics: ROS, KUKA & FANUC robot programming, precision motion control, autonomous navigation, servo-driven systems, AoA control, live feedback control systems
+- electronics: KiCad, EasyEDA, PCB design, ESP32 || STM32, Arduino, embedded systems, Linux & real-time operating systems
+- CAD/Simulation: SolidWorks, ANSYS (CFD/FEA), Fusion360, structured-light 3D scanning & mesh reconstruction
+- manufacturing: FDM/SLA 3D printing, CNC machining, composites manufacturing, MIG & TIG welding, metal fabrication
+- systems engineering: rapid prototyping workflows, NASA Systems Engineering framework, thermal & structural analysis, wind tunnel testing
+- aerospace: spacetech ventures, 1U CubeSat design, quantum imaging & MRI reconstruction, GPU-accelerated computing, signal processing
+- anything #deeptech #spacetech #robotics r-engineer. especially pertaining to earlier topics
 
 ---
 
-## 📄 Resume
+## I'm looking to collaborate on ...
 
-<div align="center">
-  
-  <a href="https://github.com/ShriabhayS/ShriabhayS/raw/main/resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-Download_PDF-FF6B6B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download Resume"/>
-  </a>
-  <a href="https://github.com/ShriabhayS/ShriabhayS/blob/main/resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-View_Online-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="View Resume"/>
-  </a>
-  
-</div>
+- spacetech ventures & deployable platform architectures
+- robotics automation projects with computer vision integration
+- deep tech startups focused on AI/ML applications in aerospace & medical imaging
+- open-source mechatronics & embedded systems projects
+
+---
+
+## How to reach me:
+
+- Email: `shriabhay10@gmail.com`
+- LinkedIn: [`shriabhay-s`](https://www.linkedin.com/in/shriabhay-s)
+- Location: `Melbourne, VIC-3145, Australia`
+- Phone: `+61 470 632 887`
 
 ---
 
@@ -190,34 +185,6 @@
 
 <div align="center">
   
-  ### 💬 Quote
-  
-  **"Passionate about building elegant, scalable technologies and pushing the boundaries of deep tech through curiosity and innovation."**
-  
-</div>
-
----
-
-## 📬 Get in Touch
-
-<div align="center">
-  
-  **📍 Location:** Melbourne, VIC-3145, Australia  
-  **✉️ Email:** shriabhay10@gmail.com  
-  **📱 Phone:** +61 470 632 887  
-  **💼 LinkedIn:** [shriabhay-s](https://www.linkedin.com/in/shriabhay-s)
-  
-</div>
-
----
-
-<div align="center">
-  
   <img src="https://komarev.com/ghpvc/?username=ShriabhayS&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-  
-  **Made with ❤️ by Shriabhay S**
-  
-  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status"/>
-  <img src="https://img.shields.io/badge/Location-Melbourne,%20Australia-blue?style=for-the-badge" alt="Location"/>
   
 </div>
