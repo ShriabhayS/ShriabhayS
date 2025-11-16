@@ -44,6 +44,21 @@
 
 ---
 
+## 📄 Resume
+
+<div align="center">
+  
+  <a href="https://github.com/ShriabhayS/ShriabhayS/raw/main/resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Download_PDF-FF6B6B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download Resume"/>
+  </a>
+  <a href="https://github.com/ShriabhayS/ShriabhayS/blob/main/resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View_Online-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="View Resume"/>
+  </a>
+  
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Programming Languages
@@ -55,6 +70,7 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
   <img src="https://img.shields.io/badge/Verilog-000000?style=for-the-badge&logo=verilog&logoColor=white" alt="Verilog"/>
+  <img src="https://img.shields.io/badge/MIPS-005A00?style=for-the-badge&logo=mips&logoColor=white" alt="MIPS"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
@@ -94,7 +110,7 @@
 
 ### Manufacturing & Fabrication
 <div align="center">
-  <img src="https://img.shields.io/badge/3D%20Printing-FF6B6B?style=for-the-badge&logo=prusa-3d&logoColor=white" alt="3D Printing"/>
+  <img src="https://img.shields.io/badge/3D%20Printing-FDM/SLA-FF6B6B?style=for-the-badge&logo=prusa-3d&logoColor=white" alt="FDM/SLA 3D Printing"/>
   <img src="https://img.shields.io/badge/CNC%20Machining-000000?style=for-the-badge&logo=cnc&logoColor=white" alt="CNC"/>
   <img src="https://img.shields.io/badge/Composites-8B4513?style=for-the-badge&logo=carbon&logoColor=white" alt="Composites"/>
   <img src="https://img.shields.io/badge/Welding-FF6B00?style=for-the-badge&logo=welding&logoColor=white" alt="Welding"/>
@@ -232,19 +248,36 @@
 <div align="left">
 
 ### Engineering Skills
-- Composites Manufacturing | 3D Scanning & Reverse Engineering
+- Composites Manufacturing | Structured-light 3D Scanning & Mesh Reconstruction
 - CAD & CAM | CFD & FEA
-- Additive & Subtractive Manufacturing | MIG & TIG Welding
+- FDM/SLA Additive & Subtractive Manufacturing | MIG & TIG Welding
 - Metal Fabrication | PCB Design
-- Prototyping & System Integration
+- Rapid Prototyping & System Integration Workflows
 
 ### Technical Skills
-- Computer Vision & Image Processing
+- Computer Vision: Object Detection, Pose Estimation & Real-time Visual Feedback
+- Precision Motion Control & Autonomous Navigation
 - KUKA & FANUC Robot Programming
+- Servo-driven Systems & AoA Control | Live Feedback Control Systems
 - Systems Engineering Methodologies
 - GPU-Accelerated Computing | Signal Processing
 - Quantum Communication Research
 - Wind Tunnel Testing | Thermal & Structural Analysis
+- Benchmarking & Visualization | Data Analysis
+
+### Specialized Technical Skills
+- Structured-light 3D Scanning & Mesh Reconstruction
+- Servo-driven Systems & AoA (Angle of Attack) Control
+- Real-time Visual Feedback Systems
+- Object Detection & Pose Estimation (Computer Vision)
+- Precision Motion Control & Autonomous Navigation
+- Live Feedback Control Systems
+
+### Professional Skills
+- Leadership & Mentoring (80+ students)
+- Industry Partnership Development
+- Stakeholder Management
+- Rapid Prototyping Workflows
 
 </div>
 
