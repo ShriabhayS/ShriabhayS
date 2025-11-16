@@ -14,6 +14,8 @@
   
 </div>
 
+<br>
+
 ---
 
 ## 👨‍💻 About Me
@@ -26,9 +28,10 @@
 
 ---
 
-## 🌐 Socials
+## 🌐 Connect With Me
 
 <div align="center">
+  
   <a href="https://linkedin.com/in/shriabhay-s" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -38,60 +41,77 @@
   <a href="https://github.com/ShriabhayS" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  
 </div>
 
 ---
 
-## 💼 Current Roles
+## 💼 Experience
 
-- **🔬 AI & Imaging Systems Engineer** @ Space CoLab | *Sep 2025 – Present*
-  - Engineered GPU-accelerated frameworks for MRI and quantum imaging reconstruction
-  - Applied algorithmic design principles from medical imaging to quantum communication research
-  - Built modular, scalable pipelines for large-scale data processing using Python, NumPy, and PyTorch
+### Current Roles
 
-- **🤖 Smart Systems and Robotics Lead** @ Monash Automation | *Jan 2025 – Present*
-  - Leading a 25+ member interdisciplinary team delivering 10+ automation and robotics projects
-  - Programmed and deployed KUKA and FANUC robotic platforms in Java
-  - Designed and integrated a robotic bartender using computer vision algorithms and KUKA iiwa robot arms
-  - Developed computer vision and image processing algorithms using PyTorch, OpenCV, and TensorFlow
+<div align="left">
 
-- **🚴 Project Lead / Aerodynamics, Composites and Chassis** @ Monash Human Power | *Jul 2023 – Present*
-  - Applied NASA's Systems Engineering framework across 1500+ aerodynamically optimizing components
-  - Achieved 130+ km/hr top speed for Australia's fastest human-powered vehicle
-  - Reduced aerodynamic drag by 53% using ANSYS workbench CFD and FEA
-  - Spearheaded planning and logistics for 2025 World Human Powered Speed Challenge (WHPSC) in Nevada, USA
+- **🔬 AI & Imaging Systems Engineer** @ Space CoLab  
+  `Sep 2025 – Present`  
+  • Engineered GPU-accelerated frameworks for MRI and quantum imaging reconstruction  
+  • Applied algorithmic design principles from medical imaging to quantum communication research  
+  • Built modular, scalable pipelines for large-scale data processing using Python, NumPy, and PyTorch
 
-- **👨‍💼 Engineering Ambassador** @ Engineers Australia & Monash Engineering | *Dec 2024 – Present*
-  - Representing Monash Engineering and Engineers Australia at stakeholder events
-  - Facilitating collaboration between academia, industry, and government partners
+- **🤖 Smart Systems and Robotics Lead** @ Monash Automation  
+  `Jan 2025 – Present`  
+  • Leading a 25+ member interdisciplinary team delivering 10+ automation and robotics projects  
+  • Programmed and deployed KUKA and FANUC robotic platforms in Java  
+  • Designed and integrated a robotic bartender using computer vision algorithms and KUKA iiwa robot arms  
+  • Developed computer vision and image processing algorithms using PyTorch, OpenCV, and TensorFlow
 
-- **🚀 Founder Fellow** @ Startmate, Build Club, MLAI | *Nov 2024 – Present*
-  - 2x Founder, Participated in Validator and Pre-Accelerator programs
-  - Currently pursuing IP/patent development and preparing for pre-seed entry
-  - Developing preliminary hardware and system architecture for a deployable spacetech platform
+- **🚴 Project Lead / Aerodynamics, Composites and Chassis** @ Monash Human Power  
+  `Jul 2023 – Present`  
+  • Applied NASA's Systems Engineering framework across 1500+ aerodynamically optimizing components  
+  • Achieved 130+ km/hr top speed for Australia's fastest human-powered vehicle  
+  • Reduced aerodynamic drag by 53% using ANSYS workbench CFD and FEA  
+  • Spearheaded planning and logistics for 2025 World Human Powered Speed Challenge (WHPSC) in Nevada, USA
 
----
+- **👨‍💼 Engineering Ambassador** @ Engineers Australia & Monash Engineering  
+  `Dec 2024 – Present`  
+  • Representing Monash Engineering and Engineers Australia at stakeholder events  
+  • Facilitating collaboration between academia, industry, and government partners
 
-## 💼 Past Experience
+- **🚀 Founder Fellow** @ Startmate, Build Club, MLAI  
+  `Nov 2024 – Present`  
+  • 2x Founder, Participated in Validator and Pre-Accelerator programs  
+  • Currently pursuing IP/patent development and preparing for pre-seed entry  
+  • Developing preliminary hardware and system architecture for a deployable spacetech platform
 
-- **🔧 Engineering Intern** @ Young Innovators Inc | *Jun 2025 – Jul 2025*
-  - Built 3-axis force measurement system on an open loop subsonic Wind Tunnel achieving <±1g accuracy
-  - Developed drag-induced moment correction using sensor geometry, improving lift accuracy by ~15%
-  - Integrated lab into Global Meteor Network; supported early stage data acquisition and meteor trajectory logging
-  - Contributed to early-stage analysis of Milky Way angular acceleration via kinematic modelling with MATLAB
+</div>
 
-- **🔧 Engineering Intern** @ Brahmastra Aerospace & Prime Toolings | *Nov 2023 - Feb 2024*
-  - Designed and assembled a 1U CubeSat from concept to flight-ready prototype
-  - Designed compact, reliable PCBs in EasyEDA optimised for 1U payload constraints
-  - Machined aluminium and steel alloy parts using CNC lathes, and mills with Prime Toolings
-  - Performed CFD and FEA analysis in ANSYS Fluent and Mechanical for thermal and structural validation
-  - Applied NASA Systems Engineering Handbook framework across stages to ensure traceability, risk mitigation, and verification compliance
+### Past Experience
 
-- **🏗️ Industry Team Lead** @ Monash Sustainable Buildings | *Jul 2023 - Apr 2024*
-  - Established 4 strategic industry partnerships and coordinated Industry Nights to strengthen academia-industry collaboration
-  - Produced 3 quarterly publications and improved sponsorship response rate by 60%
-  - Led a 15-member operations team, coordinating logistics with university staff and securing 2 new academic advisors
-  - Prepared for the 2024 U.S. Solar Decathlon Design Challenge
+<div align="left">
+
+- **🔧 Engineering Intern** @ Young Innovators Inc  
+  `Jun 2025 – Jul 2025`  
+  • Built 3-axis force measurement system on an open loop subsonic Wind Tunnel achieving <±1g accuracy  
+  • Developed drag-induced moment correction using sensor geometry, improving lift accuracy by ~15%  
+  • Integrated lab into Global Meteor Network; supported early stage data acquisition and meteor trajectory logging  
+  • Contributed to early-stage analysis of Milky Way angular acceleration via kinematic modelling with MATLAB
+
+- **🔧 Engineering Intern** @ Brahmastra Aerospace & Prime Toolings  
+  `Nov 2023 - Feb 2024`  
+  • Designed and assembled a 1U CubeSat from concept to flight-ready prototype  
+  • Designed compact, reliable PCBs in EasyEDA optimised for 1U payload constraints  
+  • Machined aluminium and steel alloy parts using CNC lathes, and mills with Prime Toolings  
+  • Performed CFD and FEA analysis in ANSYS Fluent and Mechanical for thermal and structural validation  
+  • Applied NASA Systems Engineering Handbook framework across stages to ensure traceability, risk mitigation, and verification compliance
+
+- **🏗️ Industry Team Lead** @ Monash Sustainable Buildings  
+  `Jul 2023 - Apr 2024`  
+  • Established 4 strategic industry partnerships and coordinated Industry Nights to strengthen academia-industry collaboration  
+  • Produced 3 quarterly publications and improved sponsorship response rate by 60%  
+  • Led a 15-member operations team, coordinating logistics with university staff and securing 2 new academic advisors  
+  • Prepared for the 2024 U.S. Solar Decathlon Design Challenge
+
+</div>
 
 ---
 
@@ -161,25 +181,25 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShriabhayS&show_icons=true&theme=github_dark_dimmed&count_private=true&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShriabhayS&show_icons=true&theme=github_dark_dimmed&count_private=true&hide_border=true&include_all_commits=true&border_radius=10" alt="GitHub Stats"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShriabhayS&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShriabhayS&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=8&border_radius=10" alt="Top Languages"/>
   
 </div>
 
 <div align="center">
   
-  <img src="https://github-readme-streak-stats.demolab.com?user=ShriabhayS&theme=github-dark-dimmed&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.demolab.com?user=ShriabhayS&theme=github-dark-dimmed&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border_radius=10" alt="GitHub Streak"/>
   
 </div>
 
 <div align="center">
   
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShriabhayS&theme=github-dark-dimmed&hide_border=true&area=true)
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShriabhayS&theme=github-dark-dimmed&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area_color=1F6FEB)
   
 </div>
 
@@ -191,23 +211,66 @@
 
 ---
 
+## 🔥 Featured Projects
+
+<div align="left">
+
+- **🚀 Space Tech Venture**  
+  Developing preliminary hardware and system architecture for a deployable spacetech platform  
+  `Python` `Embedded Systems` `Systems Engineering`
+
+- **🤖 Robotic Bartender**  
+  KUKA iiwa robot arms with computer vision algorithms for autonomous bartending  
+  `KUKA` `OpenCV` `PyTorch` `Computer Vision`
+
+- **🚴 Monash Human Power**  
+  Leading Australia's fastest human-powered vehicle project (130+ km/hr)  
+  `ANSYS` `CFD` `FEA` `Composites Manufacturing`
+
+- **🔬 MRI & Quantum Imaging**  
+  GPU-accelerated frameworks for image reconstruction  
+  `PyTorch` `CUDA` `NumPy` `Signal Processing`
+
+- **🏗️ Automation Systems**  
+  Leading 25+ member team on 10+ automation and robotics projects  
+  `ROS` `KUKA` `FANUC` `Computer Vision`
+
+- **🛰️ 1U CubeSat**  
+  Designed and assembled a 1U CubeSat from concept to flight-ready prototype  
+  `PCB Design` `ANSYS` `Systems Engineering`
+
+- **🌬️ Wind Tunnel Rig**  
+  3-axis aerodynamic load-cell system with Arduino (<±1g accuracy)  
+  `Arduino` `Sensors` `Control Systems` `MATLAB`
+
+</div>
+
+---
+
 ## 🎓 Education
 
+<div align="left">
+
 - **Bachelor of Engineering (Honours)** - Mechatronics and Robotics - AI  
-  *Monash University* | *2022-2026*
+  *Monash University* | `2022-2026`
   
 - **Machining Skills and Hand Tools Apprenticeship**  
-  *Chisholm Institute* | *Feb 2025 - Apr 2025*
+  *Chisholm Institute* | `Feb 2025 - Apr 2025`
   
 - **High School Diploma** (Physics, Chemistry, Maths, Biology - 95%)  
-  *CBSE* | *2022*
+  *CBSE* | `2022`
   
 - **JEE (Mains) 2022** - 99.567 percentile  
   *National Testing Agency*
 
+</div>
+
 ---
 
-## 🏆 Certifications
+## 🏆 Certifications & Achievements
+
+### Certifications
+<div align="left">
 
 - SOLIDWORKS Design Associate (CSWA)
 - 1U CUBESAT Design Certification
@@ -218,9 +281,10 @@
 - Introduction to Systems Engineering (University of New South Wales)
 - Mental Health First Aid and First Aid Certified
 
----
+</div>
 
-## 🏅 Awards & Honors
+### Awards & Honors
+<div align="left">
 
 - 🥇 **International Undergraduate Excellence Scholarship**
 - 🥇 **ICUR Research Paper Abstract 2025 Presenter**
@@ -229,6 +293,31 @@
 - 🥇 **International Karate Medallist (India)** - 2012-2021
 - 🥇 **National Karate Medallist (Australia)** - 2023-2025
 - 🥇 **Zonal Swimming Medallist (India)** - 2010-2020
+
+</div>
+
+---
+
+## 💡 Core Competencies
+
+<div align="left">
+
+### Engineering Skills
+- Composites Manufacturing | 3D Scanning & Reverse Engineering
+- CAD & CAM | CFD & FEA
+- Additive & Subtractive Manufacturing | MIG & TIG Welding
+- Metal Fabrication | PCB Design
+- Prototyping & System Integration
+
+### Technical Skills
+- Computer Vision & Image Processing
+- KUKA & FANUC Robot Programming
+- Systems Engineering Methodologies
+- GPU-Accelerated Computing | Signal Processing
+- Quantum Communication Research
+- Wind Tunnel Testing | Thermal & Structural Analysis
+
+</div>
 
 ---
 
@@ -239,101 +328,6 @@
   <img src="https://raw.githubusercontent.com/ShriabhayS/ShriabhayS/main/github-metrics.svg" alt="GitHub Metrics" width="100%"/>
   
 </div>
-
----
-
-## 🔥 Featured Projects
-
-- 🚀 **Space Tech Venture** - Developing preliminary hardware and system architecture for a deployable spacetech platform
-  - *Tech Stack:* Python, Embedded Systems, Systems Engineering
-  
-- 🤖 **Robotic Bartender** - KUKA iiwa robot arms with computer vision algorithms for autonomous bartending
-  - *Tech Stack:* KUKA, OpenCV, PyTorch, Computer Vision
-  
-- 🚴 **Monash Human Power** - Leading Australia's fastest human-powered vehicle project (130+ km/hr)
-  - *Tech Stack:* ANSYS, CFD, FEA, Composites Manufacturing
-  
-- 🔬 **MRI & Quantum Imaging** - GPU-accelerated frameworks for image reconstruction
-  - *Tech Stack:* PyTorch, CUDA, NumPy, Signal Processing
-  
-- 🏗️ **Automation Systems** - Leading 25+ member team on 10+ automation and robotics projects
-  - *Tech Stack:* ROS, KUKA, FANUC, Computer Vision
-  
-- 🛰️ **1U CubeSat** - Designed and assembled a 1U CubeSat from concept to flight-ready prototype
-  - *Tech Stack:* PCB Design, ANSYS, Systems Engineering
-  
-- 🌬️ **Wind Tunnel Rig** - 3-axis aerodynamic load-cell system with Arduino (<±1g accuracy)
-  - *Tech Stack:* Arduino, Sensors, Control Systems, MATLAB
-
----
-
-## 📝 Skills Summary
-
-### Engineering Skills
-- Composites Manufacturing
-- 3D Scanning & Reverse Engineering
-- CAD & CAM
-- CFD & FEA
-- Additive & Subtractive Manufacturing
-- MIG & TIG Welding
-- Metal Fabrication
-- PCB Design
-- Prototyping & System Integration
-
-### Technical Skills
-- Computer Vision & Image Processing
-- KUKA & FANUC Robot Programming
-- Systems Engineering Methodologies
-- GPU-Accelerated Computing
-- Signal Processing
-- Quantum Communication Research
-- Wind Tunnel Testing
-- Thermal & Structural Analysis
-
----
-
-## 💡 Fun Facts
-
-- 🥋 International and National Karate Champion
-- 🏊 Zonal Swimming Medallist
-- 🚀 Passionate about Space Technology and Aerospace Engineering
-- 🤖 Love building autonomous systems and robotics
-- 🎯 Currently working on IP/Patent development for spacetech venture
-
----
-
-## 📬 Get in Touch
-
-<div align="center">
-  
-  **Location:** Melbourne, VIC-3145, Australia  
-  **Email:** shriabhay10@gmail.com  
-  **Phone:** +61 470 632 887  
-  **LinkedIn:** [shriabhay-s](https://linkedin.com/in/shriabhay-s)
-  
-</div>
-
----
-
-<div align="center">
-  
-  **"Passionate about building elegant, scalable technologies and pushing the boundaries of deep tech through curiosity and innovation."**
-  
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-  
-  ![Snake animation](https://raw.githubusercontent.com/ShriabhayS/ShriabhayS/output/github-contribution-grid-snake.svg)
-  
-</div>
-
----
-
-## 📈 GitHub Profile Summary
 
 <div align="center">
   
@@ -349,17 +343,42 @@
 
 ---
 
-## 🎯 GitHub Profile Views Counter
+## 🐍 Contribution Graph
 
 <div align="center">
   
-  <img src="https://komarev.com/ghpvc/?username=ShriabhayS&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  ![Snake animation](https://raw.githubusercontent.com/ShriabhayS/ShriabhayS/output/github-contribution-grid-snake.svg)
   
 </div>
 
 ---
 
 <div align="center">
+  
+  ### 💬 Quote
+  
+  **"Passionate about building elegant, scalable technologies and pushing the boundaries of deep tech through curiosity and innovation."**
+  
+</div>
+
+---
+
+## 📬 Get in Touch
+
+<div align="center">
+  
+  **📍 Location:** Melbourne, VIC-3145, Australia  
+  **✉️ Email:** shriabhay10@gmail.com  
+  **📱 Phone:** +61 470 632 887  
+  **💼 LinkedIn:** [shriabhay-s](https://linkedin.com/in/shriabhay-s)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  <img src="https://komarev.com/ghpvc/?username=ShriabhayS&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
   
   **Made with ❤️ by Shriabhay S**
   
