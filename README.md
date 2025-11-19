@@ -105,7 +105,6 @@
 
 ### Manufacturing & Fabrication
 <div align="center">
-  <img src="https://img.shields.io/badge/3D%20Printing-FDM/SLA-FF6B6B?style=for-the-badge&logo=prusa-3d&logoColor=white" alt="FDM/SLA 3D Printing"/>
   <img src="https://img.shields.io/badge/CNC%20Machining-000000?style=for-the-badge&logo=cnc&logoColor=white" alt="CNC"/>
   <img src="https://img.shields.io/badge/Composites-8B4513?style=for-the-badge&logo=carbon&logoColor=white" alt="Composites"/>
   <img src="https://img.shields.io/badge/Welding-FF6B00?style=for-the-badge&logo=welding&logoColor=white" alt="Welding"/>
@@ -139,13 +138,13 @@
 
 <div align="center">
   
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShriabhayS&theme=github-dark-dimmed&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area_color=1F6FEB)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShriabhayS&theme=github-dark-dimmed&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area_color=1F6FEB" alt="GitHub Activity Graph"/>
   
 </div>
 
 <div align="center">
   
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ShriabhayS&theme=github_dark_dimmed&no-frame=true&no-bg=false&margin-w=4&column=7)
+  <img src="https://github-profile-trophy.vercel.app/?username=ShriabhayS&theme=github_dark_dimmed&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
   
 </div>
 
