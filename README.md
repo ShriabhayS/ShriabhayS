@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shriabhay+S!;Student+Entrepreneur+x+Engineer+🚀;" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shriabhay+S!;Student+Entrepreneur+x+Engineer+🚀;" alt="Typing animation" />
 </div>
 
 <div align="center">
@@ -140,13 +140,13 @@
 
 <div align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShriabhayS&theme=github-dark-dimmed&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=ShriabhayS&theme=github-dark-dimmed&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border_radius=10" alt="GitHub Streak"/>
   
 </div>
 
 <div align="center">
   
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShriabhayS&theme=github-dark-dimmed&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area_color=1F6FEB)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShriabhayS&theme=github-dark-dimmed&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area_color=1F6FEB" alt="GitHub Activity Graph"/>
   
 </div>
 
