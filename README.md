@@ -14,43 +14,44 @@
 
 ---
 
-## Hire me:
+## 💼 Hire me:
 
-- CV: `https://github.com/ShriabhayS/ShriabhayS/raw/main/resume.pdf`
-- Website: `https://github.com/ShriabhayS` (portfolio coming soon!)
-
----
-
-## Always learning ...
-
-- AI papers: everything state of the art, + math, mechatronics & aerospace engineering
-- PYTHON (AI/ML), JAVA, C/C++, MATLAB, MIPS, VERILOG HDL, JavaScript, HTML/CSS, Bash
-- artificial intelligence: PyTorch, TensorFlow, computer vision, object detection, pose estimation, real-time visual feedback
-- robotics: ROS, KUKA & FANUC robot programming, precision motion control, autonomous navigation, servo-driven systems, AoA control, live feedback control systems
-- electronics: KiCad, EasyEDA, PCB design, ESP32 || STM32, Arduino, embedded systems, Linux & real-time operating systems
-- CAD/Simulation: SolidWorks, ANSYS (CFD/FEA), Fusion360, structured-light 3D scanning & mesh reconstruction
-- manufacturing: FDM/SLA 3D printing, CNC machining, composites manufacturing, MIG & TIG welding, metal fabrication
-- systems engineering: rapid prototyping workflows, NASA Systems Engineering framework, thermal & structural analysis, wind tunnel testing
-- aerospace: spacetech ventures, 1U CubeSat design, quantum imaging & MRI reconstruction, GPU-accelerated computing, signal processing
-- anything #deeptech #spacetech #robotics r-engineer. especially pertaining to earlier topics
+- **CV**: [Download Resume](https://drive.google.com/file/d/1iJuj6Q_rQx59eLg-hsbWCqDYwMj7qHDm/view?usp=sharing)
+- **Website**: [GitHub Profile](https://github.com/ShriabhayS) (portfolio coming soon!)
+- **Email**: [shriabhay10@gmail.com](mailto:shriabhay10@gmail.com)
 
 ---
 
-## I'm looking to collaborate on ...
+## 📚 Always Learning ...
 
-- spacetech ventures & deployable platform architectures
-- robotics automation projects with computer vision integration
-- deep tech startups focused on AI/ML applications in aerospace & medical imaging
-- open-source mechatronics & embedded systems projects
+- **AI papers**: Everything state of the art, + math, mechatronics & aerospace engineering
+- **PYTHON (AI/ML), JAVA, C/C++, MATLAB, MIPS, VERILOG HDL, JavaScript, HTML/CSS, Bash**
+- **Artificial Intelligence**: PyTorch, TensorFlow, computer vision, object detection, pose estimation, real-time visual feedback
+- **Robotics**: ROS, KUKA & FANUC robot programming, precision motion control, autonomous navigation, servo-driven systems, AoA control, live feedback control systems
+- **Electronics & Hardware**: FPGAs, KiCad, EasyEDA, PCB design, ESP32 || STM32, Arduino, embedded systems, Linux & real-time operating systems
+- **CAD/Simulation**: SolidWorks, ANSYS (CFD/FEA), Fusion360, structured-light 3D scanning & mesh reconstruction
+- **Manufacturing**: FDM/SLA 3D printing, CNC machining, composites manufacturing, MIG & TIG welding, metal fabrication
+- **Systems Engineering**: Rapid prototyping workflows, NASA Systems Engineering framework, thermal & structural analysis, wind tunnel testing
+- **Aerospace**: Spacetech ventures, 1U CubeSat design, quantum imaging & MRI reconstruction, GPU-accelerated computing, signal processing
+- **Anything #deeptech #spacetech #robotics** - especially pertaining to earlier topics
 
 ---
 
-## How to reach me:
+## 🤝 I'm Looking to Collaborate On ...
 
-- Email: `shriabhay10@gmail.com`
-- LinkedIn: [`shriabhay-s`](https://www.linkedin.com/in/shriabhay-s)
-- Location: `Melbourne, VIC-3145, Australia`
-- Phone: `+61 470 632 887`
+- **Spacetech ventures** & deployable platform architectures
+- **Robotics automation projects** with computer vision integration
+- **Deep tech startups** focused on AI/ML applications in aerospace & medical imaging
+- **Open-source mechatronics** & embedded systems projects
+
+---
+
+## 📧 How to Reach Me:
+
+- **Email**: [shriabhay10@gmail.com](mailto:shriabhay10@gmail.com)
+- **LinkedIn**: [shriabhay-s](https://www.linkedin.com/in/shriabhay-s)
+- **Location**: Melbourne, VIC-3145, Australia
+- **Phone**: +61 470 632 887
 
 ---
 
@@ -58,16 +59,14 @@
 
 ### Programming Languages
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
-  <img src="https://img.shields.io/badge/Verilog-000000?style=for-the-badge&logo=verilog&logoColor=white" alt="Verilog"/>
+  <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C/C++"/>
+  <img src="https://img.shields.io/badge/Verilog%20HDL-000000?style=for-the-badge&logo=verilog&logoColor=white" alt="Verilog HDL"/>
   <img src="https://img.shields.io/badge/MIPS-005A00?style=for-the-badge&logo=mips&logoColor=white" alt="MIPS"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
+  <img src="https://img.shields.io/badge/HTML/CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML/CSS"/>
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
 </div>
 
@@ -96,6 +95,7 @@
 
 ### Embedded Systems & Hardware
 <div align="center">
+  <img src="https://img.shields.io/badge/FPGA-FF6B00?style=for-the-badge&logo=xilinx&logoColor=white" alt="FPGA"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
   <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32"/>
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
