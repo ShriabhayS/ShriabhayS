@@ -1,8 +1,7 @@
 name: 🧮 Generate GitHub Profile Metrics
 
-# This workflow generates comprehensive GitHub metrics
-# Note: The generated metrics.svg is currently not displayed in README.md
-# You can optionally add it to your README if desired
+# Minimalistic metrics workflow - generates only essential visualizations
+# Focuses on quality over quantity
 
 permissions:
   contents: write
@@ -13,44 +12,58 @@ on:
   workflow_dispatch:        # Allow manual triggering
 
 jobs:
-  github-metrics:
+  header-metrics:
     runs-on: ubuntu-latest
     steps:
       - name: 📥 Checkout repository
         uses: actions/checkout@v4
       
-      - name: 🧩 Generate Metrics
+      - name: 🎯 Generate Header Metrics
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: ShriabhayS
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community
           config_timezone: Australia/Melbourne
-          filename: github-metrics.svg
-
-          # Plugins configuration
+          filename: header.svg
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-          plugin_languages: yes
-          plugin_languages_limit: 8
           plugin_achievements: yes
           plugin_achievements_display: compact
-          plugin_followup: yes
-          plugin_habits: yes
-          plugin_habits_days: 14
-          plugin_habits_facts: no
-          plugin_habits_from: 200
-          plugin_notable: yes
-          plugin_notable_repositories: 5
-          plugin_lines: yes
-          plugin_commits: yes
-          plugin_commits_authoring: yes
+          plugin_languages: yes
+          plugin_languages_limit: 6
       
-      - name: 📝 Commit metrics
+      - name: 📝 Commit header metrics
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add github-metrics.svg
-          git commit -m "Update GitHub metrics [skip ci]" || exit 0
+          git add header.svg
+          git commit -m "Update header metrics [skip ci]" || exit 0
+          git push
+
+  activity-calendar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: 📅 Generate Activity Calendar
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: ShriabhayS
+          template: classic
+          base: ""
+          config_timezone: Australia/Melbourne
+          filename: activity.svg
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+      
+      - name: 📝 Commit activity calendar
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add activity.svg
+          git commit -m "Update activity calendar [skip ci]" || exit 0
           git push
