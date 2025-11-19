@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shriabhay+S!;Student+Entrepreneur+x+Engineer+🚀;" alt="Typing animation" />
+  <h1>Hi There! 👋</h1>
+  <h2>I'm Shriabhay S!</h2>
+  <h3>Student Entrepreneur × Engineer 🚀</h3>
 </div>
 
 <div align="center">
@@ -146,7 +148,7 @@
 
 <div align="center">
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShriabhayS&theme=github-dark-dimmed&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area_color=1F6FEB" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShriabhayS&theme=github-dark-dimmed&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area_color=1F6FEB&custom_title=GitHub%20Contribution%20Graph" alt="GitHub Activity Graph"/>
   
 </div>
 
