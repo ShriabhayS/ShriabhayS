@@ -22,12 +22,12 @@ jobs:
       - name: 🧩 Generate Metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}  # Required: Set this secret in repository settings
+          token: ${{ secrets.GITHUB_TOKEN }}
           user: ShriabhayS
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Australia/Melbourne
-          output: github-metrics.svg
+          filename: github-metrics.svg
 
           # Plugins configuration
           plugin_isocalendar: yes
@@ -42,11 +42,10 @@ jobs:
           plugin_habits_facts: no
           plugin_habits_from: 200
           plugin_notable: yes
-          plugin_notable_limit: 5
+          plugin_notable_repositories: 5
           plugin_lines: yes
-          commits_authoring: yes
-          commits_merging: yes
-          commits_merging_authoring: yes
+          plugin_commits: yes
+          plugin_commits_authoring: yes
       
       - name: 📝 Commit metrics
         run: |
