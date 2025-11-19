@@ -142,13 +142,13 @@
 
 <div align="center">
   
-  <img src="https://streak-stats.demolab.com/?user=ShriabhayS&theme=github-dark-dimmed&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.vercel.app/?user=ShriabhayS&theme=github-dark-dimmed&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border_radius=10" alt="GitHub Streak"/>
   
 </div>
 
 <div align="center">
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShriabhayS&theme=github-dark-dimmed&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area_color=1F6FEB&custom_title=GitHub%20Contribution%20Graph" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShriabhayS&theme=github-dark-dimmed&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area_color=1F6FEB" alt="GitHub Activity Graph"/>
   
 </div>
 
