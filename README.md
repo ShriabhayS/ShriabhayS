@@ -32,7 +32,7 @@
 
 ## Hire Me
 
-- **CV:** [Download Resume]([https://drive.google.com/your-real-resume-link-here](https://drive.google.com/file/d/1iJuj6Q_rQx59eLg-hsbWCqDYwMj7qHDm/view?usp=sharing))
+- **CV:** [Download Resume]([(https://drive.google.com/file/d/1iJuj6Q_rQx59eLg-hsbWCqDYwMj7qHDm/view?usp=sharing)])
 - **Website:** GitHub Profile (portfolio coming soon)
 - **Email:** `shriabhay10@gmail.com`
 - **LinkedIn:** [shriabhay-s](https://www.linkedin.com/in/shriabhay-s)
