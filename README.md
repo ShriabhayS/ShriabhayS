@@ -1,9 +1,9 @@
 <!-- HERO / INTRO -->
 <div align="center">
 
-# Hi, I'm **Shriabhay S**
+# Hi, I'm **Shriabhay S** 👋
 
-### Student Entrepreneur × Engineer
+### Entrepreneur × Engineer
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=26&pause=1200&color=FACC15&center=true&vCenter=true&width=700&lines=Robotics+%7C+Spacetech+%7C+Deeptech;Building+robots+and+rockets;Always+learning.+Always+shipping.)
 
@@ -29,63 +29,68 @@
 
 ---
 
-## Hire Me
-- **Resume:** [Download](https://drive.google.com/file/d/1iJuj6Q_rQx59eLg-hsbWCqDYwMj7qHDm/view?usp=sharing)
-- **Email:** `shriabhay10@gmail.com`
-- **LinkedIn:** [shriabhay-s](https://www.linkedin.com/in/shriabhay-s)
-- **Location:** Melbourne, Australia
+## 🚀 About Me
+
+I'm an **Entrepreneur and Engineer** passionate about pushing the boundaries of robotics, aerospace, and deep technology. I build systems that bridge hardware and software, from autonomous robots to space systems, with a focus on real-world validation and deployment.
+
+**📍 Based in:** Melbourne, Australia  
+**📧 Contact:** `shriabhay10@gmail.com`  
+**💼 Resume:** [Download](https://drive.google.com/file/d/1iJuj6Q_rQx59eLg-hsbWCqDYwMj7qHDm/view?usp=sharing)  
+**🔗 LinkedIn:** [shriabhay-s](https://www.linkedin.com/in/shriabhay-s)
 
 ---
 
-## What I’m doing now
-- Building deeptech and spacetech systems.  
-- Engineering robotics, control, and perception pipelines.  
-- Applying systems engineering + hardware validation in wind tunnels and field tests.
+## 💼 What I'm Building
+
+- **Deeptech & Spacetech Systems** — End-to-end development from concept to deployment  
+- **Robotics & Control Systems** — Engineering perception, planning, and control pipelines  
+- **Hardware Validation** — Systems engineering with wind tunnel and field testing
 
 ---
 
-## Always Learning
-- Robotics, aerospace, composites, and simulation.  
-- Systems engineering for hardware–software integration.  
-- Applied AI for real-world robotics and space systems.
+## 📚 Always Learning
+
+- **Robotics & Aerospace** — Advanced control systems, composites, and simulation  
+- **Systems Engineering** — Hardware–software integration and validation  
+- **Applied AI** — Real-world deployment in robotics and space systems
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <details>
-<summary><b>View full stack</b></summary>
+<summary><b>🔍 View full stack</b></summary>
 <br/>
 
-### Programming
-Python, C/C++, Java, MATLAB, Verilog, MIPS, JavaScript, Bash
+### 💻 Programming
+`Python` `C/C++` `Java` `MATLAB` `Verilog` `MIPS` `JavaScript` `Bash`
 
-### AI/ML & CV
-PyTorch, TensorFlow, OpenCV, NumPy, Scikit-learn
+### 🤖 AI/ML & Computer Vision
+`PyTorch` `TensorFlow` `OpenCV` `NumPy` `Scikit-learn`
 
-### Robotics & Automation
-ROS, KUKA/FANUC programming, motion control, autonomous navigation
+### 🦾 Robotics & Automation
+`ROS` `KUKA/FANUC` `Motion Control` `Autonomous Navigation`
 
-### Electronics & Hardware
-FPGAs, PCB design, STM32/ESP32, embedded systems
+### ⚡ Electronics & Hardware
+`FPGAs` `PCB Design` `STM32/ESP32` `Embedded Systems`
 
-### CAD & Simulation
-SolidWorks, ANSYS (CFD/FEA), Fusion 360, Blender, CATIA
+### 🎨 CAD & Simulation
+`SolidWorks` `ANSYS (CFD/FEA)` `Fusion 360` `Blender` `CATIA`
 
-### Fabrication
-3D printing, CNC machining, composites manufacturing, welding
+### 🏭 Fabrication
+`3D Printing` `CNC Machining` `Composites Manufacturing` `Welding`
 
-### Aerospace
-Systems engineering, wind tunnel testing, CubeSat concepts, GPU-accelerated signal processing
+### 🚀 Aerospace
+`Systems Engineering` `Wind Tunnel Testing` `CubeSat Concepts` `GPU-Accelerated Signal Processing`
 
 </details>
 
 ---
 
-## GitHub at a Glance
+## 📊 GitHub Analytics
 
 <details open>
-<summary><b>Activity & stats</b></summary>
+<summary><b>📈 Activity & Statistics</b></summary>
 <br/>
 
 <div align="center">
@@ -109,7 +114,7 @@ Systems engineering, wind tunnel testing, CubeSat concepts, GPU-accelerated sign
 
 ---
 
-## Contribution Snake
+## 🐍 Contribution Activity
 
 <div align="center">
 
