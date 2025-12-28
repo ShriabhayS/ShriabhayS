@@ -100,11 +100,20 @@ I'm an **Entrepreneur and Engineer** passionate about pushing the boundaries of 
 ![EasyEDA](https://img.shields.io/badge/EasyEDA-404040?style=flat)
 ![PCB](https://img.shields.io/badge/PCB-Design_%26_Assembly-green?style=flat)
 
-### 🎨 Mechanical Design, CFD & FEA
+### 🎨 Mechanical Design, CAD & Analysis
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-D2492A?style=flat&logo=dassaultsystèmes&logoColor=white)
 ![Ansys](https://img.shields.io/badge/Ansys-Mechanical_%26_Fluent-FFB71B?style=flat&logo=ansys&logoColor=black)
-![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white)
-![Validation](https://img.shields.io/badge/Validation-Wind_Tunnel_%7C_Testing-red?style=flat)
+![CAD](https://img.shields.io/badge/CAD-3D_Modelling-blue?style=flat)
+![Mech Eng](https://img.shields.io/badge/Mechanical_Engineering-Design-orange?style=flat)
+![DFM](https://img.shields.io/badge/DFM-Design_for_Manufacturing-green?style=flat)
+![Composites](https://img.shields.io/badge/Composites-Structures-purple?style=flat)
+
+### 🏭 Manufacturing & Prototyping
+![Manufacturing](https://img.shields.io/badge/Manufacturing-CNC_%7C_Welding-grey?style=flat)
+![3D Printing](https://img.shields.io/badge/3D_Printing-FDM_%7C_SLA-F37626?style=flat)
+![Prototyping](https://img.shields.io/badge/Prototyping-Rapid_%7C_Vacuum_Forming-blue?style=flat)
+![Laser Cutting](https://img.shields.io/badge/Fabrication-Laser_Cutting_%7C_Woodworking-brown?style=flat)
+![Finishing](https://img.shields.io/badge/Finishing-Spray_Painting-yellow?style=flat)
 
 ### 🌐 Software Engineering & Web
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white)
@@ -112,13 +121,15 @@ I'm an **Entrepreneur and Engineer** passionate about pushing the boundaries of 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Adobe](https://img.shields.io/badge/Creative-Illustrator_%7C_Photography-FF0000?style=flat&logo=adobe&logoColor=white)
 
 ### 📊 Data, Compute & Research
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-NVIDIA_Compute-76B900?style=flat&logo=nvidia&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-Writing-008080?style=flat&logo=latex&logoColor=white)
-![Manufacturing](https://img.shields.io/badge/Manufacturing-3D_Printing-grey?style=flat)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white)
+![Scanning](https://img.shields.io/badge/3D_Scanning-Reverse_Engineering-blue?style=flat)
 
 ---
 
