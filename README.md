@@ -42,17 +42,17 @@ I'm an **Entrepreneur and Engineer** passionate about pushing the boundaries of 
 
 ## 💼 What I'm Building
 
-- **Deeptech & Spacetech Systems** — End-to-end development from concept to deployment  
-- **Robotics & Control Systems** — Engineering perception, planning, and control pipelines  
-- **Hardware Validation** — Systems engineering with wind tunnel and field testing
+- **Deeptech & Spacetech Systems** - End-to-end development from concept to deployment  
+- **Robotics & Control Systems** - Engineering perception, planning, and control pipelines  
+- **Hardware Validation** - Systems engineering with wind tunnel and field testing
 
 ---
 
 ## 📚 Always Learning
 
-- **Robotics & Aerospace** — Advanced control systems, composites, and simulation  
-- **Systems Engineering** — Hardware–software integration and validation  
-- **Applied AI** — Real-world deployment in robotics and space systems
+- **Robotics & Aerospace** - Advanced control systems, composites, and simulation  
+- **Systems Engineering** - Hardware-software integration and validation  
+- **Applied AI** - Real-world deployment in robotics and space systems
 
 ---
 
