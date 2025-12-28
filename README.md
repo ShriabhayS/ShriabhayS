@@ -58,66 +58,92 @@ I'm an **Entrepreneur and Engineer** passionate about pushing the boundaries of 
 
 ## 🛠️ Tech Stack
 
-<details>
-<summary><b>🔍 View full stack</b></summary>
-<br/>
+### 💻 Programming & Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-HDL-B0B0B0?style=flat&logo=fpga&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-### 💻 Programming
-`Python` `C/C++` `Java` `MATLAB` `Verilog` `MIPS` `JavaScript` `Bash`
+### 🦾 Robotics, Modelling & Simulation
+![ROS](https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-Orange?style=flat&logo=gazebo&logoColor=white)
+![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=flat&logo=mathworks&logoColor=white)
+![Dynamics](https://img.shields.io/badge/Kinematics_%26_Dynamics-Lagrangian_Mechanics-blue?style=flat)
+![Digital Twin](https://img.shields.io/badge/Digital_Twin-System_Modelling-blue?style=flat)
 
-### 🤖 AI/ML & Computer Vision
-`PyTorch` `TensorFlow` `OpenCV` `NumPy` `Scikit-learn`
+### 🤖 AI, Machine Learning & Computer Vision
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![CNNs](https://img.shields.io/badge/CNNs-EfficientNet-FF6F00?style=flat)
+![ML Ops](https://img.shields.io/badge/ML_Ops-Pipelines-green?style=flat)
 
-### 🦾 Robotics & Automation
-`ROS` `KUKA/FANUC` `Motion Control` `Autonomous Navigation`
+### 📡 Signal Processing & Communications
+![DSP](https://img.shields.io/badge/DSP-Signal_Processing-0076A8?style=flat)
+![MRI](https://img.shields.io/badge/MRI_Reconstruction-GRAPPA_%7C_SoS-blue?style=flat)
+![Comms](https://img.shields.io/badge/Communications-QAM_%7C_Pulse_Shaping-orange?style=flat)
+![Analysis](https://img.shields.io/badge/Analysis-Fourier_%7C_BER_vs_SNR-purple?style=flat)
 
-### ⚡ Electronics & Hardware
-`FPGAs` `PCB Design` `STM32/ESP32` `Embedded Systems`
+### ⚡ Embedded Systems & Electronics
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-3145A6?style=flat&logo=kicad&logoColor=white)
+![EasyEDA](https://img.shields.io/badge/EasyEDA-404040?style=flat)
+![PCB](https://img.shields.io/badge/PCB-Design_%26_Assembly-green?style=flat)
 
-### 🎨 CAD & Simulation
-`SolidWorks` `ANSYS (CFD/FEA)` `Fusion 360` `Blender` `CATIA`
+### 🎨 Mechanical Design, CFD & FEA
+![SolidWorks](https://img.shields.io/badge/SolidWorks-D2492A?style=flat&logo=dassaultsystèmes&logoColor=white)
+![Ansys](https://img.shields.io/badge/Ansys-Mechanical_%26_Fluent-FFB71B?style=flat&logo=ansys&logoColor=black)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white)
+![Validation](https://img.shields.io/badge/Validation-Wind_Tunnel_%7C_Testing-red?style=flat)
 
-### 🏭 Fabrication
-`3D Printing` `CNC Machining` `Composites Manufacturing` `Welding`
+### 🌐 Software Engineering & Web
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
-### 🚀 Aerospace
-`Systems Engineering` `Wind Tunnel Testing` `CubeSat Concepts` `GPU-Accelerated Signal Processing`
-
-</details>
+### 📊 Data, Compute & Research
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-NVIDIA_Compute-76B900?style=flat&logo=nvidia&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-Writing-008080?style=flat&logo=latex&logoColor=white)
+![Manufacturing](https://img.shields.io/badge/Manufacturing-3D_Printing-grey?style=flat)
 
 ---
 
 ## 📊 GitHub Analytics
 
-<details open>
-<summary><b>📈 Activity & Statistics</b></summary>
-<br/>
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShriabhayS&show_icons=true&hide_border=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=ShriabhayS&show_icons=true&hide_border=true&theme=tokyonight" height="150" alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShriabhayS&layout=compact&hide_border=true&theme=tokyonight" height="150" alt="languages graph" />
+
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShriabhayS&layout=compact&hide_border=true&theme=tokyonight" />
 
-<br/><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShriabhayS&theme=tokyonight&hide_border=true" alt="streak graph" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShriabhayS&theme=tokyonight&hide_border=true" />
 <br/>
-<img src="https://github-profile-trophy.vercel.app/?username=ShriabhayS&theme=onedark&no-frame=true&row=1" />
-<br/><br/>
 
-<img src="./github-metrics.svg" />
+<img src="https://github-profile-trophy.vercel.app/?username=ShriabhayS&theme=onedark&no-frame=true&row=1" alt="trophy graph" />
 
 </div>
-
-</details>
 
 ---
 
 ## 🐍 Contribution Activity
 
 <div align="center">
-
-![Snake](./output/github-contribution-grid-snake.svg)
-
+  <img src="https://raw.githubusercontent.com/ShriabhayS/ShriabhayS/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
+
