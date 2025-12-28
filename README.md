@@ -133,6 +133,15 @@ I'm an **Entrepreneur and Engineer** passionate about pushing the boundaries of 
 
 ---
 
+## 📜 Certificates & Achievements
+
+- **Certified SOLIDWORKS Associate (CSWA)** - *Dassault Systèmes* (July 2024)
+- **Internship: Satellite Design & 1U CubeSat** - *Brahmastra Aerospace & Defence* (Nov 2023 - Jan 2024)
+- **Internship: Design, Analysis & Simulation** - *Brahmastra Aerospace & Defence* (Dec 2023 - Feb 2024)
+- **Remote Sensing & GIS for Environmental Studies** - *Indian Institute of Remote Sensing (ISRO)* (August 2021)
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
