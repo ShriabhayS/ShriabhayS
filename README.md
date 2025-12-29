@@ -168,8 +168,8 @@ I'm an **Entrepreneur and Engineer** passionate about pushing the boundaries of 
 ## 📜 Certificates & Achievements
 
 - **[Certified SOLIDWORKS Associate (CSWA)](#)** - *Dassault Systèmes*
-- **[Internship: Satellite Design & 1U CubeSat](#)** - *Brahmastra Aerospace & Defence*
-- **[Internship: Design, Analysis & Simulation](#)** - *Brahmastra Aerospace & Defence*
+- **[Satellite Design & 1U CubeSat](#)** - *Brahmastra Aerospace & Defence*
+- **[Design, Analysis & Simulation](#)** - *Brahmastra Aerospace & Defence*
 - **[Remote Sensing & GIS for Environmental Studies](#)** - *Indian Institute of Remote Sensing (ISRO)*
 
 ---
