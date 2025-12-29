@@ -63,7 +63,6 @@ I'm an **Entrepreneur and Engineer** passionate about pushing the boundaries of 
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-HDL-B0B0B0?style=flat&logo=fpga&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -99,9 +98,13 @@ I'm an **Entrepreneur and Engineer** passionate about pushing the boundaries of 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
+![FPGA](https://img.shields.io/badge/FPGA-ED1C24?style=flat&logo=xilinx&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog_HDL-5C2D91?style=flat)
+![VHDL](https://img.shields.io/badge/VHDL-00629B?style=flat)
 ![KiCad](https://img.shields.io/badge/KiCad-3145A6?style=flat&logo=kicad&logoColor=white)
 ![EasyEDA](https://img.shields.io/badge/EasyEDA-404040?style=flat)
 ![PCB](https://img.shields.io/badge/PCB-Design_%26_Assembly-green?style=flat)
+![Oscilloscope](https://img.shields.io/badge/Test_Equipment-Oscilloscope_%7C_Logic_Analyzer-blue?style=flat)
 
 ### 🎨 Mechanical Design, CAD & Analysis
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-D2492A?style=flat&logo=dassaultsystèmes&logoColor=white)
