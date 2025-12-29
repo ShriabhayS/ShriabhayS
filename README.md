@@ -69,14 +69,30 @@ I'm an **Entrepreneur and Engineer** passionate about pushing the boundaries of 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-### 🦾 Robotics, Modelling & Simulation
+### 🦾 Robotics & Autonomy
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white)
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo-Orange?style=flat&logo=gazebo&logoColor=white)
 ![Isaac Sim](https://img.shields.io/badge/Isaac_Sim-76B900?style=flat&logo=nvidia&logoColor=white)
 ![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=flat&logo=mathworks&logoColor=white)
-![Dynamics](https://img.shields.io/badge/Kinematics_%26_Dynamics-Lagrangian_Mechanics-blue?style=flat)
-![Digital Twin](https://img.shields.io/badge/Digital_Twin-System_Modelling-blue?style=flat)
+![Forward Kinematics](https://img.shields.io/badge/Kinematics-Forward_%7C_Inverse-blue?style=flat)
+![Dynamics](https://img.shields.io/badge/Dynamics-Lagrangian_%7C_Newton--Euler-blue?style=flat)
+![Digital Twin](https://img.shields.io/badge/Digital_Twin-System_Modelling-purple?style=flat)
+
+### 🎯 Motion Planning & Control
+![PID](https://img.shields.io/badge/Control-PID_%7C_MPC-green?style=flat)
+![Motion Planning](https://img.shields.io/badge/Planning-RRT*_%7C_A*-orange?style=flat)
+![Trajectory](https://img.shields.io/badge/Trajectory-Optimization-red?style=flat)
+![SLAM](https://img.shields.io/badge/SLAM-LiDAR_%7C_Visual-blue?style=flat)
+![Autonomy](https://img.shields.io/badge/Autonomy-Perception→Planning→Control-purple?style=flat)
+
+### 🔧 Sensors & Actuators
+![IMU](https://img.shields.io/badge/IMU-Accelerometer_%7C_Gyroscope-blue?style=flat)
+![Encoders](https://img.shields.io/badge/Encoders-Absolute_%7C_Incremental-green?style=flat)
+![LiDAR](https://img.shields.io/badge/LiDAR-3D_Scanning-red?style=flat)
+![Cameras](https://img.shields.io/badge/Cameras-Stereo_%7C_Depth-orange?style=flat)
+![Motors](https://img.shields.io/badge/Motors-BLDC_%7C_Stepper_%7C_Servo-grey?style=flat)
+![Actuators](https://img.shields.io/badge/Actuators-Gears_%7C_Transmissions-brown?style=flat)
 
 ### 🤖 AI, Machine Learning & Computer Vision
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
@@ -105,6 +121,7 @@ I'm an **Entrepreneur and Engineer** passionate about pushing the boundaries of 
 ![EasyEDA](https://img.shields.io/badge/EasyEDA-404040?style=flat)
 ![PCB](https://img.shields.io/badge/PCB-Design_%26_Assembly-green?style=flat)
 ![Oscilloscope](https://img.shields.io/badge/Test_Equipment-Oscilloscope_%7C_Logic_Analyzer-blue?style=flat)
+![Power Systems](https://img.shields.io/badge/Power-Battery_%7C_BMS-yellow?style=flat)
 
 ### 🎨 Mechanical Design, CAD & Analysis
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-D2492A?style=flat&logo=dassaultsystèmes&logoColor=white)
@@ -116,12 +133,19 @@ I'm an **Entrepreneur and Engineer** passionate about pushing the boundaries of 
 ![DFM](https://img.shields.io/badge/DFM-Design_for_Manufacturing-green?style=flat)
 ![Composites](https://img.shields.io/badge/Composites-Structures-purple?style=flat)
 
-### 🏭 Manufacturing & Prototyping
+### 🏭 Manufacturing & Supply Chain
 ![Manufacturing](https://img.shields.io/badge/Manufacturing-CNC_%7C_Welding-grey?style=flat)
 ![3D Printing](https://img.shields.io/badge/3D_Printing-FDM_%7C_SLA-F37626?style=flat)
 ![Prototyping](https://img.shields.io/badge/Prototyping-Rapid_%7C_Vacuum_Forming-blue?style=flat)
 ![Laser Cutting](https://img.shields.io/badge/Fabrication-Laser_Cutting_%7C_Woodworking-brown?style=flat)
 ![Finishing](https://img.shields.io/badge/Finishing-Spray_Painting-yellow?style=flat)
+![Supply Chain](https://img.shields.io/badge/Supply_Chain-Sourcing_%7C_Logistics-green?style=flat)
+
+### 🚀 Product Development & Systems Engineering
+![Product Design](https://img.shields.io/badge/Product_Design-Concept_to_Production-blue?style=flat)
+![Systems Engineering](https://img.shields.io/badge/Systems_Engineering-V--Model_%7C_Integration-purple?style=flat)
+![Full Stack HW](https://img.shields.io/badge/Full_Stack-Software_for_Hardware-orange?style=flat)
+![Hardware Validation](https://img.shields.io/badge/Validation-Testing_%7C_Verification-red?style=flat)
 
 ### 🌐 Software Engineering & Web
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white)
