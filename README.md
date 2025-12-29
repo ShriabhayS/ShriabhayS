@@ -166,4 +166,3 @@ I'm an **Entrepreneur and Engineer** passionate about pushing the boundaries of 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ShriabhayS/ShriabhayS/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
-
