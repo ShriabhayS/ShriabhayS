@@ -177,16 +177,7 @@ I'm an **Entrepreneur and Engineer** passionate about pushing the boundaries of 
 
 <div align="center">
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=ShriabhayS&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/ShriabhayS)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShriabhayS&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/ShriabhayS)
-
-<br/>
-
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShriabhayS&theme=tokyonight&hide_border=true)](https://github.com/ShriabhayS)
-
-<br/>
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=ShriabhayS&theme=onedark&no-frame=true&row=1)](https://github.com/ShriabhayS)
+<img src="https://raw.githubusercontent.com/ShriabhayS/ShriabhayS/main/github-metrics.svg" alt="GitHub Metrics" />
 
 </div>
 
