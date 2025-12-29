@@ -102,8 +102,9 @@ I'm an **Entrepreneur and Engineer** passionate about pushing the boundaries of 
 
 ### 🎨 Mechanical Design, CAD & Analysis
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-D2492A?style=flat&logo=dassaultsystèmes&logoColor=white)
+![CATIA](https://img.shields.io/badge/CATIA-005386?style=flat&logo=dassaultsystèmes&logoColor=white)
+![Onshape](https://img.shields.io/badge/Onshape-1C1C1C?style=flat&logo=onshape&logoColor=white)
 ![Ansys](https://img.shields.io/badge/Ansys-Mechanical_%26_Fluent-FFB71B?style=flat&logo=ansys&logoColor=black)
-![CAD](https://img.shields.io/badge/CAD-3D_Modelling-blue?style=flat)
 ![Mech Eng](https://img.shields.io/badge/Mechanical_Engineering-Design-orange?style=flat)
 ![DFM](https://img.shields.io/badge/DFM-Design_for_Manufacturing-green?style=flat)
 ![Composites](https://img.shields.io/badge/Composites-Structures-purple?style=flat)
@@ -135,10 +136,10 @@ I'm an **Entrepreneur and Engineer** passionate about pushing the boundaries of 
 
 ## 📜 Certificates & Achievements
 
-- **[Certified SOLIDWORKS Associate (CSWA)](#)** - *Dassault Systèmes* (July 2024)
-- **[Internship: Satellite Design & 1U CubeSat](#)** - *Brahmastra Aerospace & Defence* (Nov 2023 - Jan 2024)
-- **[Internship: Design, Analysis & Simulation](#)** - *Brahmastra Aerospace & Defence* (Dec 2023 - Feb 2024)
-- **[Remote Sensing & GIS for Environmental Studies](#)** - *Indian Institute of Remote Sensing (ISRO)* (August 2021)
+- **[Certified SOLIDWORKS Associate (CSWA)](#)** - *Dassault Systèmes*
+- **[Internship: Satellite Design & 1U CubeSat](#)** - *Brahmastra Aerospace & Defence*
+- **[Internship: Design, Analysis & Simulation](#)** - *Brahmastra Aerospace & Defence*
+- **[Remote Sensing & GIS for Environmental Studies](#)** - *Indian Institute of Remote Sensing (ISRO)*
 
 ---
 
