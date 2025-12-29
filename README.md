@@ -159,7 +159,6 @@ I'm an **Entrepreneur and Engineer** passionate about pushing the boundaries of 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-NVIDIA_Compute-76B900?style=flat&logo=nvidia&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-Writing-008080?style=flat&logo=latex&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white)
 ![Scanning](https://img.shields.io/badge/3D_Scanning-Reverse_Engineering-blue?style=flat)
 
