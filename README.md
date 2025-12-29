@@ -68,17 +68,20 @@ I'm an **Entrepreneur and Engineer** passionate about pushing the boundaries of 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ### 🦾 Robotics, Modelling & Simulation
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white)
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo-Orange?style=flat&logo=gazebo&logoColor=white)
+![Isaac Sim](https://img.shields.io/badge/Isaac_Sim-76B900?style=flat&logo=nvidia&logoColor=white)
 ![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=flat&logo=mathworks&logoColor=white)
 ![Dynamics](https://img.shields.io/badge/Kinematics_%26_Dynamics-Lagrangian_Mechanics-blue?style=flat)
 ![Digital Twin](https://img.shields.io/badge/Digital_Twin-System_Modelling-blue?style=flat)
 
 ### 🤖 AI, Machine Learning & Computer Vision
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
@@ -104,6 +107,7 @@ I'm an **Entrepreneur and Engineer** passionate about pushing the boundaries of 
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-D2492A?style=flat&logo=dassaultsystèmes&logoColor=white)
 ![CATIA](https://img.shields.io/badge/CATIA-005386?style=flat&logo=dassaultsystèmes&logoColor=white)
 ![Onshape](https://img.shields.io/badge/Onshape-1C1C1C?style=flat&logo=onshape&logoColor=white)
+![Fusion360](https://img.shields.io/badge/Fusion_360-F57423?style=flat&logo=autodesk&logoColor=white)
 ![Ansys](https://img.shields.io/badge/Ansys-Mechanical_%26_Fluent-FFB71B?style=flat&logo=ansys&logoColor=black)
 ![Mech Eng](https://img.shields.io/badge/Mechanical_Engineering-Design-orange?style=flat)
 ![DFM](https://img.shields.io/badge/DFM-Design_for_Manufacturing-green?style=flat)
