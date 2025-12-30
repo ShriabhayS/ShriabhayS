@@ -9,6 +9,9 @@
 
 <br/>
 
+<a href="https://calendly.com/shriabhay10/20min">
+  <img src="https://img.shields.io/badge/Book_a_Call-20_min-00A2FF?style=for-the-badge&logo=calendly&logoColor=white" />
+</a>
 <a href="https://drive.google.com/file/d/1iJuj6Q_rQx59eLg-hsbWCqDYwMj7qHDm/view?usp=sharing">
   <img src="https://img.shields.io/badge/Resume-Download-18181B?style=for-the-badge&logo=googledrive&logoColor=white" />
 </a>
