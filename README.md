@@ -1,7 +1,7 @@
 <!-- HERO / INTRO -->
 <div align="center">
 
-# Hi, I'm **Shriabhay S** 👋
+# Hi, I'm **Shriabhay** 👋
 
 ### Entrepreneur × Engineer
 
