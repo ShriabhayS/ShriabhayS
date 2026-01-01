@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Resume-Download-18181B?style=for-the-badge&logo=googledrive&logoColor=white" />
 </a>
 <a href="https://calendar.app.google/H6uA6FUSxftRtzmc7">
-  <img src="https://img.shields.io/badge/Book_a_Call-20_min-00A94F?style=for-the-badge&logo=googlecalendar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Book_a_Call-30_min-00A94F?style=for-the-badge&logo=googlecalendar&logoColor=white" />
 </a>
 <a href="https://github.com/ShriabhayS">
   <img src="https://img.shields.io/badge/Portfolio-Coming_Soon-18181B?style=for-the-badge&logo=vercel&logoColor=white" />
