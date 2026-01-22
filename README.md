@@ -15,7 +15,7 @@
 <a href="https://calendar.app.google/H6uA6FUSxftRtzmc7">
   <img src="https://img.shields.io/badge/Book_a_Call-30_min-00A94F?style=for-the-badge&logo=googlecalendar&logoColor=white" />
 </a>
-<a href="https://shriabhay-engineer.lovable.app">
+<a href="https://shriabhay-portfolio.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-Visit-18181B?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/shriabhay-s">
