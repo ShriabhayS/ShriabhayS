@@ -190,8 +190,10 @@ I'm an **Entrepreneur and Engineer** passionate about pushing the boundaries of 
 
 ---
 
-## 🐍 Contribution Activity
+## 🚀 GitHub Space Shooter
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ShriabhayS/ShriabhayS/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/ShriabhayS/ShriabhayS/main/game.gif" alt="GitHub Space Shooter - contribution graph game" />
 </div>
+
+*My contribution graph as a Galaga-style space shooter. Generated with [gh-space-shooter](https://github.com/marketplace/actions/github-space-shooter).*
